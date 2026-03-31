@@ -21,10 +21,10 @@ START_BUTTONS = InlineKeyboardMarkup([
     [InlineKeyboardButton("• ᴀᴅᴅ ᴍᴇ •", url=f"https://t.me/{BOT_USERNAME}?startgroup=true")],
     [InlineKeyboardButton("• ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅ •", callback_data="show_help")],
     [
-        InlineKeyboardButton("• ʟᴏɢs •", url="https://t.me/networkxlog"),
-        InlineKeyboardButton("• ᴜᴘᴅᴀᴛᴇ •", url="https://t.me/aashikteam")
+        InlineKeyboardButton("• ʟᴏɢs •", url="https://t.me/BotsSupport_36"),
+        InlineKeyboardButton("• ᴜᴘᴅᴀᴛᴇ •", url="https://t.me/BOTxBOOSTER")
     ],
-    [InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url="https://t.me/shivang_mishra_op")]
+    [InlineKeyboardButton("🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", url="https://t.me/iamthakur007")]
 ])
 
 PRIVATE_START_BUTTON = InlineKeyboardMarkup([
