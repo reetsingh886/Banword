@@ -5,7 +5,7 @@ from config import OWNER_ID, BOT_USERNAME
 from Banword import Banword as app
 from Banword.helper.database import add_user, add_chat
 
-START_IMG = "https://files.catbox.moe/05x8mv.jpg"
+START_IMG = "https://files.catbox.moe/v1h6yh.jpg"
 
 def get_start_caption(user):
     return f"""
